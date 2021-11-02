@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-	cout << "Pozdrav iz aplikacije od Luka Lovretic.";
+	cout << "Pozdrav iz aplikacije od Luka Lovretic. ->0165078883";
 }
